@@ -7,8 +7,8 @@
 // @match        *://*/*
 // @grant        none
 // @license      Hi
-// @downloadURL https://update.greasyfork.org/scripts/520213/Speed%20Up%20Time%20Script.user.js
-// @updateURL https://update.greasyfork.org/scripts/520213/Speed%20Up%20Time%20Script.meta.js
+// @downloadURL https://raw.githubusercontent.com/TumadamLengend/bypassyeumoney/refs/heads/main/yeumoney
+// @updateURL https://raw.githubusercontent.com/TumadamLengend/bypassyeumoney/refs/heads/main/yeumoney
 // ==/UserScript==
 
 (function() {
